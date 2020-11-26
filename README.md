@@ -10,7 +10,7 @@
 | 2. | Tugas Praktium 4 | [penjelasan](#TugasPraktikum-4) | 
 
 ## TugasLatihan 4
-![gambar output](gambar/latihan4.PNG)
+![gambar output](gambar/latihan4.png)
 
 ## Hasil Source Code
 ```python
@@ -43,7 +43,7 @@ print("════════════════════════�
 ![gambar output](gambar/Hasillatihan4.png)
 
 ## TugasPraktikum 4
-![gambar output](gambar/soalpraktikum4.PNG)
+![gambar output](gambar/soalpraktikum4.png)
 
 ## Hasil Source Code
 ```python
@@ -121,7 +121,7 @@ for item in nilai:
 print("==================================================================")
 ```
 Berikut hasil dari program data mahasiswa 
-![gambar output](gambar/hasilpraktikum4.png)
+![gambar output](gambar/hasil%20praktikum4.png)
 
 
 
